@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋Hi, I’m Ibraheem<br>👨‍💻 PHP Developer. <br>🚀 Laravel Enthusiast<br>🔧 Backend Specialist<br>👀🔗 API's Dealer.
+👋Hi, I’m Ibraheem<br>👨‍💻 PHP Developer. <br>🚀 Laravel Enthusiast<br>🔧 Backend Specialist<br>🔗 API's Dealer.
 
 
 ## 🌐 Socials:
